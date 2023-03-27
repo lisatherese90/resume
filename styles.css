@@ -1,0 +1,152 @@
+a {
+    color: #11999E;
+    text-decoration: none;
+    margin: 10px 20px;
+ }
+ 
+ a:hover {
+    color: #EAF6F6; 
+ }
+
+body{
+    margin:0 0 0 0;
+    text-align:center;
+    font-family: Josefin Sans, sans-serif;
+}
+
+h1{
+    font-size: 5.625rem;
+    font-family: Space Mono;
+    margin: 50px auto 0 auto;
+    padding-top: 20px;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-family: Libre Franklin, sans-serif;
+    color: #11999E;
+}
+
+hr {
+    border-top: 6px dotted #EAF6F6;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+p{
+    font-family: 'Lato', sans-serif;
+    line-height: 2;
+}
+
+span{
+    text-decoration: underline;
+    }
+
+/* Div styling */
+
+.top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: 100px 0 0 0;
+  }
+
+  .intro {
+    width: 50%;
+    margin: auto;
+ }
+
+ .skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    color: white;
+    padding: 50px;
+  }
+
+  .btn {
+    background: #66BFBF;
+    border-radius: 8px;
+    font-family: josefin sans;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-width: 0;
+    margin: 30px auto 80px auto;
+  }
+
+  .btn:hover {
+    color: #EAF6F6;
+    background-color: #11999E;
+  }
+
+ .contact-message {
+    width: 50%;
+    margin: 40px auto 60px;
+ }
+
+ .copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+ }
+
+ /* Image styling */
+
+.briefcase {
+    float:left;
+    margin-right: 30px;
+    border-radius:50%;
+    width: 200px;
+    height: 200px;
+}
+
+.books {
+    border-radius: 50%;
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+    width: 200px;
+    height: 200px;
+}
+
+.cloud2 {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.cloud1 {
+position: absolute;
+right: 300px;
+top: 40px;
+}
+
+.lisa {
+    border-radius: 100%;
+    width: 200px;
+    }
+
+
+
+
+
